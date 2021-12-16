@@ -1,0 +1,30 @@
+#name{
+    font-size:30px;
+    line-height: 1.2;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.menu {
+    list-style; none;
+    font-family: sans-serif;
+    position: absolute;
+    top:10px;
+    right:30px;
+    cursor: pointer;
+    z-index:10;
+}
+
+.links {
+    float: left;
+    color: skyblue;
+    font-family: fantasy;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom:5px;
+}
+
+.links:hover {
+    background-color:dodgerblue;
+}
